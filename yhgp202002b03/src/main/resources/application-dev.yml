@@ -1,0 +1,6 @@
+ta404:
+  modules:
+    refresh-mapper-xml:
+      enabled: true  # 默认开发模式开启XML 刷新
+    websecurity:
+      url-patter: (.*?)
